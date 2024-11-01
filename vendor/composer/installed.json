@@ -1,0 +1,47 @@
+[
+    {
+        "name": "waughj/test-hash-item",
+        "version": "1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/waughjai/test-hash-item.git",
+            "reference": "5657dc1ac52e629acdd6ce57936acafc60b00394"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/waughjai/test-hash-item/zipball/5657dc1ac52e629acdd6ce57936acafc60b00394",
+            "reference": "5657dc1ac52e629acdd6ce57936acafc60b00394",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "6.*"
+        },
+        "time": "2018-11-29T20:46:20+00:00",
+        "type": "project",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/TestHashItem.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "Jaimeson Waugh",
+                "email": "waughjai@gmail.com"
+            }
+        ],
+        "description": "A collection o' helper functions for testing properties o' a hash item",
+        "keywords": [
+            "hash",
+            "tests"
+        ]
+    }
+]
